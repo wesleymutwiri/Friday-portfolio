@@ -4,12 +4,12 @@
 ##Description
 {This website is a personal description of myself and projects I've carried out over the days.It is a simple Description of all about me and any other qualifications that I may have. Special thanks goes to Moringa school for impacting me with the skills to complete this web page }
 ## Setup/installation requirements
-{1.open your default web browser
-2.internet connection is required
-3.search the url of the website
-4.no other downloads or plug-ins are required
-5.scroll through the page and enjoy the content
-6.give feedback through the contacts and any bugs experienced}
+{1.open your default web browser..
+2.internet connection is required..
+3.search the url of the website..
+4.no other downloads or plug-ins are required..
+5.scroll through the page and enjoy the content..
+6.give feedback through the contacts and any bugs experienced..}
 ##known bugs
 { there are currently no known bugs experienced on the website but feedback on bugs encountered during viewing of the page will be highly appreciated and will go a long way into making the website better for the users. The only reason that the website may fail to load is if the Internet connection is slow or disconnected which will require you to troubleshoot your Internet connection}
 ##technologies used
