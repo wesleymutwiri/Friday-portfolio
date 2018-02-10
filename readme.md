@@ -4,7 +4,7 @@
 ## Description
 {This website is a personal description of myself and projects I've carried out over the days.It is a simple Description of all about me and any other qualifications that I may have. Special thanks goes to Moringa school for impacting me with the skills to complete this web page }
 ## Setup/installation requirements
-{1. .. open your default web browser<br>
+{1. ..open your default web browser<br>
 2. .. internet connection is required <br>
 3. .. search the url of the website<br>
 4. .. no other downloads or plug-ins are required <br>
