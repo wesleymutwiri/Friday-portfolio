@@ -2,6 +2,7 @@ body{
   background-color: #1A1E37;
   color: #fff;
   text-align: justify;
+  border-radius: 15px 50px;
 
 }
 h3{
@@ -10,7 +11,16 @@ h3{
 }
 p{
   font-family: sans-serif;
+  font-size: 20;
 }
-.about{
-  
+.jumbotron{
+  text-align: center;
+}
+li{
+  font-size: 18;
+}
+img{
+border-radius: 14px;
+height:200px;
+width:200px;
 }
