@@ -3,8 +3,7 @@ body{
   color: #fff;
   text-align: justify;
   border-radius: 15px 50px;
-
-}
+  }
 h3{
   color: purple;
   font-family: serif;
@@ -23,4 +22,12 @@ img{
 border-radius: 14px;
 height:200px;
 width:200px;
+}
+a{
+  color: green;
+}
+H1{
+  color:pink;
+  text-align: center;
+  font-size: 40px;
 }
