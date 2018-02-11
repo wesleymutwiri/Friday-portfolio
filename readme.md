@@ -16,6 +16,8 @@
 { Technlogy used during the development of this website is basic HTML5, CSS and bootstrap4 for styling of the webpage}
 ## support and contact details
 { Contact me on +254724629599 or on my github account = (https://github.com/wesleymutwiri) }
+### live site link
+(https://wesleymutwiri.github.io/Friday-portfolio/)
 ### license
 {(https://daneden.github.io/animate.css/)}
 Copyright(c) {2018} {Wesley Mutwiri}
