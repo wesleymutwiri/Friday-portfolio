@@ -6,10 +6,11 @@
 ## Setup/installation requirements
 {1. ..open your default web browser<br>
 2. .. internet connection is required <br>
-3. .. search the url of the website<br>
-4. .. no other downloads or plug-ins are required <br>
-5. .. scroll through the page and enjoy the content<br>
-6. .. give feedback through the contacts and any bugs experienced<br> }
+3. .. search wesleymutwiri on github<br>
+4. .. Click on the active link on the repository Friday-portfolio<br>
+5. .. no other downloads or plug-ins are required <br>
+6. .. scroll through the page and enjoy the content<br>
+7. .. give feedback through the contacts and any bugs experienced<br> }
 ## known bugs
 { there are currently no known bugs experienced on the website but feedback on bugs encountered during viewing of the page will be highly appreciated and will go a long way into making the website better for the users. The only reason that the website may fail to load is if the Internet connection is slow or disconnected which will require you to troubleshoot your Internet connection}
 ## technologies used
