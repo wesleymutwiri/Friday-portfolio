@@ -1,5 +1,5 @@
 /*this is the styling of the webpage*/
-body{
+/* body{
   background-color:#1A1E37;
   color:#fff;
   text-align: justify;
@@ -46,7 +46,7 @@ H1{
 }
 marquee{
   color:pink;
-}
+} */
 #landing p ,#intro-font{
   font-family: 'Kaushan Script', cursive;
 }
