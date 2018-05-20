@@ -90,7 +90,7 @@ marquee{
   color: white;
 }
 .hi-backgrd{
-  background-color: #000000;
+  background-color: #1A1E37;
   height: auto;
 }
 #begin{
@@ -173,7 +173,7 @@ marquee{
   color: white;
 }
 #welcome{
-  background-image: url("../images/welcome.gif");
+  background-image: url("http://78.media.tumblr.com/439a4606156abed8c2d04944d4efd12f/tumblr_n6kholb70q1sd011wo1_1280.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -237,7 +237,7 @@ marquee{
   color: #FFFFFF;
   padding-top: 15%;
   vertical-align: middle;
-  font-family: 'Leckerli One', cursive;
+  font-family: 'Monoton', cursive;;
 }
 .homepage-skip{
   background-color: white;
@@ -274,7 +274,7 @@ marquee{
   display: none;
 }
 #transition{
-  background-image: url("../images/transition.gif");
+  background-image: url("https://www.demilked.com/magazine/wp-content/uploads/2016/06/gif-animations-replace-loading-screen-10.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -283,7 +283,7 @@ marquee{
   display: none;
 }
 #About{
-  background-image: url("../images/about-me.gif");
+  background-image: url("http://www.jordiros.me/glgifomatic/images/loading.gif");
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -298,7 +298,7 @@ marquee{
   cursor: pointer;
 }
 #Projects{
-  background-image: url("../images/projects.gif");
+  background-image: url("https://www.demilked.com/magazine/wp-content/uploads/2016/06/gif-animations-replace-loading-screen-11.gif");
   background-size: cover;
   background-position: center;
   text-align: center;
