@@ -6,7 +6,7 @@ $(document).ready(function () {
         $("button#skip").hide();
         $("div#landing").fadeOut(2000);
         $("div#hi").delay(3000).fadeIn(2000);
-        $("div#hi").fadeOut(2000);
+        $("div#hi").fadeOut(3000);
         $("div#time").delay(8000).fadeIn(2000);
         $("div#time").fadeOut(2000);
         $("div#begin").delay(13000).fadeIn(2000);
