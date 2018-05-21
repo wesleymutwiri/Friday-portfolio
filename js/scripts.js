@@ -5,7 +5,7 @@ $(document).ready(function () {
     $("button#noSkip").click(function () {
       
         $("div#welcome").delay(32000).fadeIn(2000);
-        $("button#enter").delay(56000).fadeIn(2000);
+        $("button#enter").delay(10000).fadeIn(2000);
     });
     $("button#enter").click(function () {
         $("div#welcome").delay(1000).fadeOut(2000);
@@ -18,7 +18,7 @@ $(document).ready(function () {
         $("button#noSkip").hide();
         $("body").removeClass();
         $("body").addClass("homepage-skip");
-        $("div#homepage").delay(5000).fadeIn(2000);
+        $("div#homepage").delay(3000).fadeIn(2000);
     });
     $("button#open").click(function () {
         $("div#homepage").slideUp(2000);

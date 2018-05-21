@@ -123,7 +123,7 @@ border:round;
   display: none;
   color: white;
 }
-#intro-story{
+/* #intro-story{
   background-image: url("../images/build.gif");
   background-size: contain;
   background-repeat: no-repeat;
@@ -173,7 +173,7 @@ border:round;
   height: 100vh;
   display: none;
   color: white;
-}
+} */
 #welcome{
   background-image: url("http://78.media.tumblr.com/439a4606156abed8c2d04944d4efd12f/tumblr_n6kholb70q1sd011wo1_1280.gif");
   background-size: cover;
@@ -384,22 +384,22 @@ ul{
   vertical-align: middle;
   line-height: 45vh;
   color: white;
-  background-color: #483D8B;
+  background-color: #CD853F;
 }
 #me:hover{
-  background-color: #008080;
+  background-color: #1A1E37;
   cursor: pointer;
 }
 #hobbies:hover{
-  background-color: #008080;
+  background-color: #1A1E37;
   cursor: pointer;
 }
 #skill-sets:hover{
-  background-color: #008080;
+  background-color: #1A1E37;
   cursor: pointer;
 }
 .pull-up{
-  background-color: #008080;
+  background-color: #1A1E37;
   color: #FFFFFF;
   border-style: none;
   padding: 10px 30px 10px 30px;
