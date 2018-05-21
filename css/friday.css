@@ -21,12 +21,7 @@ li{
   font-size:18;
   text-decoration-style: solid;
 }
-img{
-border-radius:50%;
-height:300px;
-width:300px;
-border:round;
-}
+
 a{
   color: green;
 }
@@ -47,6 +42,13 @@ H1{
 marquee{
   color:pink;
 } */
+img{
+border-radius:50%;
+height:300px;
+width:300px;
+border:round;
+
+}
 #landing p ,#intro-font{
   font-family: 'Kaushan Script', cursive;
 }
@@ -274,7 +276,7 @@ marquee{
   display: none;
 }
 #transition{
-  background-image: url("https://www.demilked.com/magazine/wp-content/uploads/2016/06/gif-animations-replace-loading-screen-10.gif");
+  background-image: url("http://78.media.tumblr.com/439a4606156abed8c2d04944d4efd12f/tumblr_n6kholb70q1sd011wo1_1280.gif");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
