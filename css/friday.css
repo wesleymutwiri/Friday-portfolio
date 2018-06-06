@@ -222,7 +222,7 @@ border:round;
   cursor: pointer;
 }
 #Contacts{
-  background-image: url("../images/contacts.gif");
+  background-image: url("https://media1.tenor.com/images/206e4829789880d9b3ec2c736c715b2c/tenor.gif?itemid=3566174");
   background-size: cover;
   background-position: center;
   text-align: center;
@@ -365,14 +365,14 @@ ul{
   height: 60vh;
   font-size: 40px;
   text-align: center;
-  background-color: #008000;
+  background-color: #1A1E37;
   color: white;
 }
 #Projects-return{
   padding: 10px 30px 10px 30px;
   border-style: none;
   color: white;
-  background-color: #008000;
+  background-color: #1A1E37;
 }
 #Projects-desc a{
   color: white;
