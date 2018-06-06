@@ -1,47 +1,5 @@
 /*this is the styling of the webpage*/
-/* body{
-  background-color:#1A1E37;
-  color:#fff;
-  text-align: justify;
-  border-radius: 15px 50px;
-  font-size: 20;
-  }
-h3{
-  color: purple;
-  font-family: serif;
-}
-p{
-  font-family: sans-serif;
-  font-size:22;
-}
-.jumbotron{
-  text-align: center;
-}
-li{
-  font-size:18;
-  text-decoration-style: solid;
-}
 
-a{
-  color: green;
-}
-H1{
-  color:pink;
-  text-align:center;
-  font-size:40px;
-  font-family: serif;
-}
-.column{
-  float:left;
-  width: 50%;
-}
-.PS{
-  float:left;
-  width: 100%;
-}
-marquee{
-  color:pink;
-} */
 img{
 border-radius:50%;
 height:300px;
