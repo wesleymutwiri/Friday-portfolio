@@ -81,57 +81,7 @@ border:round;
   display: none;
   color: white;
 }
-/* #intro-story{
-  background-image: url("../images/build.gif");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  padding-top: 20%;
-  font-size: 60px;
-  text-align: center;
-  height: 100vh;
-  display: none;
-  color: white;
-}
-#intro-story1{
-  background-image: url("../images/accelerate.gif");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  padding-top: 20%;
-  font-size: 60px;
-  text-align: center;
-  height: 100vh;
-  display: none;
-  color: white;
-}
-#intro-story2{
-  background-image: url("../images/image.gif");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  padding-top: 20%;
-  font-size: 60px;
-  text-align: center;
-  height: 100vh;
-  display: none;
-  color: white;
-}
-#intro-story3{
-  background-image: url("../images/transform.gif");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  background-attachment: fixed;
-  padding-top: 20%;
-  font-size: 60px;
-  text-align: center;
-  height: 100vh;
-  display: none;
-  color: white;
-} */
+
 #welcome{
   background-image: url("http://78.media.tumblr.com/439a4606156abed8c2d04944d4efd12f/tumblr_n6kholb70q1sd011wo1_1280.gif");
   background-size: cover;
