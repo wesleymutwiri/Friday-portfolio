@@ -12,7 +12,36 @@
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
 <!--this is a link to bootstrap and css files-->
+
 <link href = "css/friday.css" rel= "stylesheet">
+<!-- Start of Async Drift Code -->
+<script>
+  "use strict";
+
+  !function () {
+    var t = window.driftt = window.drift = window.driftt || [];
+    if (!t.init) {
+      if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+      t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
+        t.factory = function (e) {
+          return function () {
+            var n = Array.prototype.slice.call(arguments);
+            return n.unshift(e), t.push(n), t;
+          };
+        }, t.methods.forEach(function (e) {
+          t[e] = t.factory(e);
+        }), t.load = function (t) {
+          var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+          o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+          var i = document.getElementsByTagName("script")[0];
+          i.parentNode.insertBefore(o, i);
+        };
+    }
+  }();
+  drift.SNIPPET_VERSION = '0.3.1';
+  drift.load('i7yrczs7eiw8');
+</script>
+<!-- End of Async Drift Code -->
 </head>
 <body>
 <!--this is the beginning of the webpage including the top picture-->
@@ -24,33 +53,6 @@
       <button type="button" class="buttons" id="skip">Showtime</button>
       </div>
   </div>
-    <!-- <div id="intro-font">
-        <div id="hi">
-             Hey There, I'm Wesley Mutwiri
-             </div>
-        <div id="time">
-            The movie is about to start
-        </div>
-        <div id="begin">
-            Let's begin
-        </div>
-        <div id="intro">
-            <p>You may be wondering what it is exactly that I do</p>
-            <br>
-            <p id="intro-cont">The answer is simple</p>
-        </div>
-        <div id="intro-story">
-            <p>I create ideas, build on them from scratch and work my way up</p>
-        </div>
-        <div id="intro-story1">
-            <p>and soon enough they pick up the pace real fast </p>
-        </div>
-        <div id="intro-story2">
-            <p>And when the time is right...</p>
-        </div>
-        <div id="intro-story3">
-            <p>They transform into something amazing</p>
-        </div> -->
         <div id="welcome">
             
             <br>
