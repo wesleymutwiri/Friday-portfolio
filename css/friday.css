@@ -1,4 +1,4 @@
-/*this is the styling of the webpage*/
+  /*this is the styling of the webpage*/
 
 img{
 border-radius:50%;
@@ -8,7 +8,7 @@ border:round;
 
 }
 #landing p ,#intro-font{
-  font-family: 'Kaushan Script', cursive;
+ font-family: 'Sansita', sans-serif;
 }
 #landing{
   font-size: 50px;
@@ -61,26 +61,7 @@ border:round;
   display: none;
   color: white;
 }
-#intro{
-  background-image: url("../images/landing.gif");
-  background-size: contain;
-  background-repeat: no-repeat;
-  background-position: center;
-  font-size: 60px;
-  text-align: center;
-  width: 100%;
-  height: 100vh;
-  padding-top: 20%;
-  display: none;
-  color: white;
-}
-#intro-cont{
-  font-size: 60px;
-  text-align: center;
-  height: auto;
-  display: none;
-  color: white;
-}
+
 
 #welcome{
   background-image: url("http://78.media.tumblr.com/439a4606156abed8c2d04944d4efd12f/tumblr_n6kholb70q1sd011wo1_1280.gif");
@@ -180,7 +161,7 @@ border:round;
   margin-left: auto;
   margin-right: auto;
   font-size: 30px;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Sansita', sans-serif;
   display: none;
 }
 #transition{
@@ -251,7 +232,7 @@ ul{
   list-style: none;
 }
 #About-desc{
-  font-family: 'Josefin Sans', sans-serif;
+  font-family: 'Sansita', sans-serif;
   display: none;
   font-size: 25px;
   text-align: center;
@@ -261,7 +242,7 @@ ul{
 }
 #more-on-me{
   text-align: justify;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Sansita', sans-serif;
   line-height: normal;
   color: white;
   display: none;
@@ -269,7 +250,7 @@ ul{
 }
 #more-on-hobbies{
   text-align: justify;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Sansita', sans-serif;
   line-height: normal;
   color: white;
   height: 40vh;
@@ -279,7 +260,7 @@ ul{
 }
 #more-on-skill-sets{
   text-align: justify;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Sansita', sans-serif;
   line-height: normal;
   color: white;
   height: 40vh;
@@ -288,7 +269,7 @@ ul{
   font-size: 20px;
 }
 .col-md-4{
-  font-family: 'Leckerli One', cursive;
+  font-family: 'Sansita', sans-serif;
   vertical-align: middle;
   line-height: 45vh;
   color: white;
@@ -314,13 +295,13 @@ ul{
 }
 .container li:before {
   content: "\f00c"; /* FontAwesome Unicode */
-  font-family: FontAwesome;
+  font-family: 'Sansita', sans-serif;
   display: inline-block;
   margin-left: -1.3em; /* same as padding-left set on li */
   width: 1.3em; /* same as padding-left set on li */
 }
 #about-return{
-  font-family: 'Leckerli One', cursive;
+  font-family: 'Sansita', sans-serif;
 }
 #Ending{
   text-align: center;
@@ -328,7 +309,7 @@ ul{
   vertical-align: middle;
   height: 50vh;
   line-height: 5vh;
-  background-color: #000000;
+  background-color: #1A1E37;
   color: 	  ;
   display: none;
 }
@@ -345,9 +326,9 @@ ul{
   font-size: 50px;
 }
 #Contacts-desc{
-  background-color: black;
+  background-color: #1A1E37;
   color: 	#FF8C00;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Sansita', sans-serif;
   height: 65vh;
   font-size: 40px;
   text-align: center;
@@ -356,12 +337,12 @@ ul{
 #Contacts-return{
   padding: 10px 30px 10px 30px;
   border-style: none;
-  color: black;
+  color: #1A1E37;
   background-color: #FF8C00;
 }
 #Projects-desc{
   display: none;
-  font-family: 'Catamaran', sans-serif;
+  font-family: 'Sansita', sans-serif;
   height: 60vh;
   font-size: 40px;
   text-align: center;
@@ -381,3 +362,34 @@ ul{
   text-decoration: none;
 }
 
+@media screen and (max-width: 1060px) {
+    #primary { width:67%; }
+    #secondary { width:30%; margin-left:3%;}  
+}
+
+/* Tabled Portrait */
+@media screen and (max-width: 768px) {
+    #primary { width:100%; }
+    #secondary { width:100%; margin:0; border:none; }
+}
+
+@media (min-device-width:600px) {
+    img[data-src-600px] {
+        content: attr(data-src-600px, url);
+    }
+}
+
+@media (min-device-width:800px) {
+    img[data-src-800px] {
+        content: attr(data-src-800px, url);
+    }
+}
+
+@media (min-width: 640px) { body {font-size:1rem;} } 
+@media (min-width:960px) { body {font-size:1.2rem;} } 
+@media (min-width:1100px) { body {font-size:1.5rem;} } 
+img { max-width: 100%; }
+
+body {
+  font-family: 'Sansita', sans-serif;
+}

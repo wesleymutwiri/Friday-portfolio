@@ -4,17 +4,17 @@ $(document).ready(function () {
     $("button.buttons").show();
     $("button#noSkip").click(function () {
       
-        $("div#welcome").delay(32000).fadeIn(2000);
-        $("button#enter").delay(10000).fadeIn(2000);
+        $("div#welcome").delay(3000).fadeIn(2000);
+        $("button#enter").delay(1000).fadeIn(2000);
     });
     $("button#enter").click(function () {
-        $("div#welcome").delay(1000).fadeOut(2000);
+        $("div#welcome").delay(1000).fadeOut(1000);
         $("body").removeClass();
         $("body").addClass("homepage");
-        $("div#homepage").delay(5000).fadeIn(2000);
+        $("div#homepage").delay(500).fadeIn(500);
     });
     $("button#skip").click(function () {
-        $("div#landing").delay(2000).fadeOut(2000);
+        $("div#landing").delay(500).fadeOut(500);
         $("button#noSkip").hide();
         $("body").removeClass();
         $("body").addClass("homepage-skip");
@@ -103,3 +103,6 @@ $(document).ready(function () {
         $("div#Ending").slideDown(2000);
     });
 });
+
+
+
