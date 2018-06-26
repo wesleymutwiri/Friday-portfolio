@@ -18,6 +18,9 @@ border:round;
   display: none;
   color: 	#CD853F;
   font-family: 'Sansita', sans-serif;
+  position: relative;
+
+  
 }
 .buttons{
   font-size: 25px;
@@ -75,6 +78,7 @@ border:round;
   height: 100vh;
   display: none;
   color: #40E0D0;
+  position: relative;
 }
 .homepage{
   background-color: white;
